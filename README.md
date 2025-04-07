@@ -30,6 +30,6 @@ You can although download the [`read_ssid.bat`](read_ssid.bat) script and run it
 
 *LICENSE* : None
 
-**would be cool if you give credit if you copy this and republish it but is not required.**
+**would be cool to give credit when you copy and republish this but is not required.**
 
 *Feel free to contribute via Issues (although Ideas) and forks / Pull Requests.*
